@@ -1,21 +1,21 @@
-image: ghcr.io/snowdreamtech/frpc:latest
+image: ghcr.io/mjmenger/frpc:latest
 tags: ["latest","0.58.1"]
 manifests:
-  - image: ghcr.io/snowdreamtech/frpc:amd64-latest
+  - image: ghcr.io/mjmenger/frpc:amd64-latest
     platform:
       architecture: amd64
       os: linux
-  - image: ghcr.io/snowdreamtech/frpc:arm32v6-latest
+  - image: ghcr.io/mjmenger/frpc:arm32v6-latest
     platform:
       architecture: arm
       os: linux
       variant: v6
-  - image: ghcr.io/snowdreamtech/frpc:arm32v7-latest
+  - image: ghcr.io/mjmenger/frpc:arm32v7-latest
     platform:
       architecture: arm
       os: linux
       variant: v7
-  - image: ghcr.io/snowdreamtech/frpc:arm64v8-latest
+  - image: ghcr.io/mjmenger/frpc:arm64v8-latest
     platform:
       architecture: arm64
       os: linux
