@@ -1,6 +1,6 @@
 FROM arm32v6/alpine:3.20
 
-LABEL maintainer="snowdream <sn0wdr1am@qq.com>"
+LABEL maintainer="mjmenger <mark@f2a.io>"
 
 ENV FRP_VERSION 0.58.1
 

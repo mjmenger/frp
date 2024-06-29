@@ -40,7 +40,7 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            snowdreamtechamd64/frpc:latest
-            snowdreamtechamd64/frpc:0.58.1
-            ghcr.io/snowdreamtech/frpc:amd64-latest
-            ghcr.io/snowdreamtech/frpc:amd64-0.58.1            
+            mmengeramd64/frpc:latest
+            mmengeramd64/frpc:0.58.1
+            ghcr.io/mjmenger/frpc:amd64-latest
+            ghcr.io/mjmenger/frpc:amd64-0.58.1            
