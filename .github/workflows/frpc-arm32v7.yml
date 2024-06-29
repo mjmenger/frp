@@ -40,7 +40,7 @@ jobs:
           platforms: linux/arm/v7
           push: true
           tags: |
-            snowdreamtecharm32v7/frpc:latest
-            snowdreamtecharm32v7/frpc:0.58.1
-            ghcr.io/snowdreamtech/frpc:arm32v7-latest
-            ghcr.io/snowdreamtech/frpc:arm32v7-0.58.1            
+            mmengerarm32v7/frpc:latest
+            mmengerarm32v7/frpc:0.58.1
+            ghcr.io/mjmenger/frpc:arm32v7-latest
+            ghcr.io/mjmenger/frpc:arm32v7-0.58.1            
